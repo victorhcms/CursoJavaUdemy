@@ -1,5 +1,5 @@
 # CursoJavaUdemy
-Repositório do Curso Java COMPLETO Programação Orientada a Objetos + Projetos - Nelio Alves
+Repositório do Curso Java COMPLETO Programação Orientada a Objetos + Projetos - Prof. Dr. Nelio Alves
 
 Os tópicos de programação incluem:
 - Lógica de programação e algoritmos
