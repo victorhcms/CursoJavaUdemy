@@ -11,7 +11,7 @@ public class Exe03 {
         int A = sc.nextInt();
         int B = sc.nextInt();
 
-        if (A / B == 2){
+        if (A % B == 0 || B % A == 0){
             System.out.println("SÃO MULTIPLOS");
         }
         else {
