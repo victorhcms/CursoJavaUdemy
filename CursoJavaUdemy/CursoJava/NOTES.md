@@ -35,3 +35,22 @@ double -> tipos numéricos com ponto flutuante
 char -> caractere unicode
 boolean -> valor verdade
 String -> cadeia de caracteres
+
+**ESTRUTURA IF-ELSE**
+
+**ESTRUTURA SWITCH-CASE**
+
+switch ( expressão ) {
+case valor1:
+comando1
+comando2
+break;
+case valor2:
+comando3
+comando4
+break;
+default:
+comando5
+comando6
+break;
+}
