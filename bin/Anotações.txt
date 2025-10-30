@@ -81,3 +81,43 @@ do {
 comando 1
 comando 2
 } while ( condição );
+
+
+***OUTROS TÓPICOS BÁSICOS***
+
+Restrições para nomes de variáveis
+• Não pode começar com dígito: use uma letra ou _
+• Não usar acentos ou til
+• Não pode ter espaço em branco
+• Sugestão: use nomes que tenham um significado
+
+***CONVENÇÕES***
+
+• Camel Case: lastName
+• pacotes
+• atributos
+• métodos
+• variáveis e parâmetros
+
+• Pascal Case: ProductService
+    • classes
+
+***FUNÇÕES INTERESSANTES PARA STRING***
+
+Checklist
+• Formatar: toLowerCase(), toUpperCase(), trim()
+• Recortar: substring(inicio), substring(inicio, fim)
+• Substituir: Replace(char, char), Replace(string, string)
+• Buscar: IndexOf, LastIndexOf
+• str.Split(" ")
+
+***FUNÇÕES2***
+Representam um processamento que possui um significado
+    • Math.sqrt(double)
+    • System.out.println(string)
+• Principais vantagens: modularização, delegação e reaproveitamento
+• Dados de entrada e saída
+    • Funções podem receber dados de entrada (parâmetros ou argumentos)
+    • Funções podem ou não retornar uma saída
+• Em orientação a objetos, funções em classes recebem o nome de
+    "métodos"
