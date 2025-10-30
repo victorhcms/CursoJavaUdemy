@@ -4,5 +4,7 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    "java.compiler.problem.resourceLeak": "ignore"
+    "java.compiler.problem.resourceLeak": "ignore",
+    "java.home": "C:\\Program Files\\Java\\jdk-21"
 }
+
