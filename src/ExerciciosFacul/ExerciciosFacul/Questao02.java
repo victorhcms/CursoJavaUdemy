@@ -6,18 +6,15 @@ public class Questao02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.printf("Digite um número: ");
+        System.out.printf("Digite dois números: ");
 
         int num = sc.nextInt();
 
-        int sucessor = num + 1;
+        int num2 = sc.nextInt();
 
-        int antecessor = num - 1;
+        int produto = num * num2;
 
-        System.out.println("O número digitado é: " + num);
-        System.out.println("Seu sucessor é: " + sucessor);
-        System.out.println("Seu antecessor é: "  + antecessor);
-
+        System.out.println("O produto dos números é: " + produto);
         sc.close();
     }
 }
