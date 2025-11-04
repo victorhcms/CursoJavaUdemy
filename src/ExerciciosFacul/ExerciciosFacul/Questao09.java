@@ -6,7 +6,7 @@ public class Questao09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Digite a temperatura em centígrados: ");
+        System.out.print("Digite a temperatura em Centígrados: ");
         float C = sc.nextFloat();
 
         float F = ((9 * C) + 160) / 5;
